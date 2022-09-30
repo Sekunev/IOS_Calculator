@@ -8,9 +8,8 @@ Project aims to create a calculator app.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Weather-App/blob/main/Weather-App.gif)
-![image](https://user-images.githubusercontent.com/101554737/193043471-7ee0ec81-0edf-4c68-888e-a04d96f9d30a.png)
-![image](https://user-images.githubusercontent.com/101554737/193043575-0cb19e54-4793-428d-940d-94059a65a281.png)
+![image](https://github.com/Sekunev/IOS_Calculator/blob/main/003.gif)
+![image](![image](https://user-images.githubusercontent.com/101554737/193331657-d5a61989-b50a-4abc-9b3a-37bb23b2dc3d.png)
 
 
 
